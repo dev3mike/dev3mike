@@ -56,19 +56,7 @@ I am a seasoned software engineer with 9+ years of expertise in the software dev
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev3mike&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
 
 <br/>  
 
