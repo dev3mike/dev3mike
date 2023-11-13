@@ -13,8 +13,7 @@
   
 
 ###    
-I am a seasoned software engineer with 9+ years of expertise in the software development process, covering project analysis, design, development, testing, and documentation. My technical strengths lie in C# (.Net Core) and JavaScript/TypeScript (Node.js), with proficiency in React.js, Next.js, Vue.js and multiple database engines such as MySQL, MongoDB, and Redis. Always eager to learn and tackle new challenges in the field.  
-  
+I've been diving into the world of software development for over 9 years now. From breaking down projects to designing, coding, testing, and even documenting, I've got the whole development dance covered. My tech playground includes C# (.Net Core) and JavaScript/TypeScript (Node.js), and I'm pretty cozy with React.js, Next.js, Vue.js, and a bunch of database engines like MySQL, MongoDB, and Redis. I'm always pumped to learn new things and take on exciting challenges in this ever-evolving field! 🚀
 
 <br/>  
 
