@@ -54,4 +54,4 @@ I've been diving into the world of software development for over 9 years now. Fr
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev3mike&hide_border=true&layout=compact" align="left" style="width: 30%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev3mike&hide_border=true&layout=compact&theme=transparent" align="left" style="width: 30%" />
