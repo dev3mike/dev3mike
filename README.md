@@ -13,7 +13,7 @@
   
 
 ###    
-I've been diving into the world of software development for over 10 years now. From breaking down projects to designing, coding, testing, and even documenting, I've got the whole development dance covered. My tech playground includes Go, C# (.Net Core) and JavaScript/TypeScript (Node.js), and I'm pretty cozy with React.js, Next.js, and a bunch of database engines like MySQL, MongoDB, and Redis. I'm always pumped to learn new things and take on exciting challenges in this ever-evolving field! 🚀
+I've been diving into the world of software development for over 10 years now. From breaking down projects to designing, coding, testing, and even documenting, I've got the whole development dance covered. My tech playground includes Go, C# (.Net Core) and JavaScript/TypeScript (Node.js) and Python(Django/FastAPI), and I'm pretty cozy with React.js, Next.js, and a bunch of database engines like MySQL, MongoDB, and Redis. I'm always pumped to learn new things and take on exciting challenges in this ever-evolving field! 🚀
 
 <br/>  
 
