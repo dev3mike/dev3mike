@@ -62,10 +62,11 @@ I've been diving into the world of software development for over 10 years now. F
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev3mike&hide_border=true&layout=compact&theme=transparent&update1" align="left" style="width: 30%" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev3mike&hide_border=true&layout=compact&theme=transparent&update1" align="left" style="width: 30%" />
+</div>
 
 <br/>  
-<hr>
   
 <div></div>
 <br/>  
