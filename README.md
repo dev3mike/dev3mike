@@ -69,7 +69,7 @@ I've been diving into the world of software development for over 10 years now. F
   
 
 <br/>  
-
+#
 ![Profile views counter](https://komarev.com/ghpvc/?username=dev3mike&&style=flat-square)  
   
 
